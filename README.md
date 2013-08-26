@@ -8,3 +8,4 @@ Requires [nodejs](http://nodejs.org/).
 
     npm install // installs 3rd party modules
     node index.js
+    // answer prompts and see matching testers
