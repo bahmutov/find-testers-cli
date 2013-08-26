@@ -1,0 +1,15 @@
+{
+  "name": "find-testers-cli",
+  "version": "0.0.0",
+  "description": "Finds testers by country and device command line tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "find-testers": "0.0.2"
+  }
+}
