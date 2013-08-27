@@ -2,6 +2,8 @@
 
 Find testers by country and device command line tool
 
+[![Build Status](https://travis-ci.org/bahmutov/find-testers-cli.png)](https://travis-ci.org/bahmutov/find-testers-cli)
+
 [![Package info](https://nodei.co/npm/find-testers-cli.png?downloads=true)](https://nodei.co/npm/find-testers-cli.png?downloads=true)
 
 ## install and run
