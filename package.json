@@ -11,7 +11,9 @@
   "license": "BSD",
   "dependencies": {
     "find-testers": "0.0.2",
-    "prompt": "~0.2.11"
+    "prompt": "~0.2.11",
+    "check-types": "~0.6.4",
+    "easy-table": "~0.2.0"
   },
   "devDependencies": {
     "matchdep": "~0.1.2",
