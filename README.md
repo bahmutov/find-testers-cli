@@ -26,10 +26,8 @@ The application can read parameters from the command line
     node index.js --country us
     // will prompt for devices
 
-    node index.js --country us,jp --device "iPhone 4,htc one"
+    node index.js --country us,jp --device "iPhone 4, htc one"
     // will display testers in two countries
-
-Note the lack of spaces after the comma.
 
 ## 3rd party modules
 
