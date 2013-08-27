@@ -13,7 +13,8 @@
     "find-testers": "0.0.3",
     "prompt": "~0.2.11",
     "check-types": "~0.6.4",
-    "easy-table": "~0.2.0"
+    "easy-table": "~0.2.0",
+    "optimist": "~0.6.0"
   },
   "devDependencies": {
     "matchdep": "~0.1.2",

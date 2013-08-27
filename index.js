@@ -2,7 +2,9 @@ var find = require('find-testers');
 var prompt = require('prompt');
 var Table = require('easy-table');
 var check = require('check-types');
+var optimist = require('optimist');
 
+prompt.override = optimist.argv;
 prompt.start();
 
 var inputs = [
