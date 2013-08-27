@@ -1,6 +1,6 @@
 {
   "name": "find-testers-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Finds testers by country and device command line tool",
   "main": "index.js",
   "scripts": {
