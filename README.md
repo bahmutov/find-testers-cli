@@ -37,6 +37,8 @@ Note the lack of spaces after the comma.
 * [prompt](https://npmjs.org/package/prompt) for asking the user to answer any remaining questions
 * [easy-table](https://npmjs.org/package/easy-table) to display the results
 * [find-testers](https://npmjs.org/package/find-testers) implements the main logic
+* [check-types](https://npmjs.org/package/check-types) for consistent type assertions
+* [gt](https://npmjs.org/package/gt) for unit and end to end testing
 
 ## Small print
 
