@@ -31,6 +31,13 @@ The application can read parameters from the command line
 
 Note the lack of spaces after the comma.
 
+## 3rd party modules
+
+* [optimist](https://npmjs.org/package/optimist) for reading options from command line
+* [prompt](https://npmjs.org/package/prompt) for asking the user to answer any remaining questions
+* [easy-table](https://npmjs.org/package/easy-table) to display the results
+* [find-testers](https://npmjs.org/package/find-testers) implements the main logic
+
 ## Small print
 
 Author: Gleb Bahmutov <gleb.bahmutov@gmail.com>
