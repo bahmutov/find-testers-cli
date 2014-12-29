@@ -10,17 +10,17 @@
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "license": "BSD",
   "dependencies": {
+    "check-types": "0.8.1",
+    "easy-table": "0.3.0",
     "find-testers": "0.0.6",
-    "prompt": "~0.2.11",
-    "check-types": "~0.6.4",
-    "easy-table": "~0.2.0",
-    "optimist": "~0.6.0"
+    "optimist": "0.6.1",
+    "prompt": "0.2.14"
   },
   "devDependencies": {
-    "matchdep": "~0.1.2",
-    "grunt": "~0.4.1",
-    "grunt-bump": "0.0.11",
-    "grunt-contrib-jshint": "~0.6.3",
-    "gt": "~0.8.8"
+    "grunt": "0.4.5",
+    "grunt-bump": "0.0.16",
+    "grunt-contrib-jshint": "0.10.0",
+    "gt": "0.8.47",
+    "matchdep": "0.3.0"
   }
 }
